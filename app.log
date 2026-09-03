@@ -1,0 +1,10 @@
+[2026-06-12 10:19:16] [INFO] Application started.
+[2026-06-12 10:19:16] [ INFO] User logged in
+[2026-06-12 10:19:16] [ERROR] Database connection failed
+[2026-06-12 10:19:16] [WARNING] Retrying connection
+[2026-06-12 10:19:16] [INFO] Application shutting down
+[2026-06-12 10:30:26] [INFO] Application started.
+[2026-06-12 10:30:26] [ INFO] User logged in
+[2026-06-12 10:30:26] [ERROR] Database connection failed
+[2026-06-12 10:30:26] [WARNING] Retrying connection
+[2026-06-12 10:30:26] [INFO] Application shutting down
